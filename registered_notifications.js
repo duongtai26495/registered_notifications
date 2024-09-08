@@ -162,7 +162,7 @@ const showNotification = (message) => {
 
 const startNotifications = async () => {
     try {
-        const response = await fetch('data.json'); 
+        const response = await fetch('https://raw.githubusercontent.com/duongtai26495/registered_notifications/main/data.json'); 
         const data = await response.json();
         const users = data.users;
         let index = 0;
