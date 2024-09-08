@@ -5,7 +5,7 @@ const addNotificationCSS = () => {
         #sale-notification {
             position: fixed;
             bottom: 20px;
-            right: 20px;
+            right: 350px;
             background-color: rgb(255 255 255);
             box-shadow: 0 0 2px 1px #00095b;
             color: white;
