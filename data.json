@@ -1,4 +1,5 @@
-[
+{
+    "users": [
     {
         "name": "Nguyễn Văn Hùng",
         "car": "Ford Ranger NextGen",
@@ -376,3 +377,4 @@
         "link": "https://ranger.binhthuanford.com"
     }
 ]
+}
